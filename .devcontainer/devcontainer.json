@@ -4,8 +4,7 @@
 		"dockerfile": "Dockerfile"
 	},
 	"hostRequirements": {
-		"cpus": 8,
-   		"storage": "32gb" 
+   		"storage": "64gb" 
 	},
 	"settings": {
 		"go.toolsManagement.checkForUpdates": "local",
